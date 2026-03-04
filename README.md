@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi there, I'm Abdallah 👋</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Backend+Expert" alt="Typing SVG" />
-  </a>
+  <h1 align="center" style="color: #8A2BE2; font-size: 3em; font-weight: bold;">
+    Software Engineer
+  </h1>
 </div>
 
 <br />
