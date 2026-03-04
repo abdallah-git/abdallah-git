@@ -12,7 +12,7 @@
 * 🏗️ Deep interest in **System Design**, Microservices, and applying **Clean Architecture** patterns.
 * 🛡️ Strong focus on security with **JWT & Identity**, ensuring high-quality and secure codebases.
 * 📚 Lifelong learner, always exploring the latest in the **.NET ecosystem** and cloud technologies.
-* 📧 You can reach me at: [abdallahyaqout66@gmail.com](mailto:abdallahyaqout66@gmail.com)
+* 📧 You can reach me at: [abdallahyaqout66@gmail.com]
 
 ---
 
@@ -31,9 +31,7 @@
   <a href="https://www.linkedin.com/in/abdallah-yaqout-5297693b1/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:abdallahyaqout66@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+ 
 </p>
 
 
