@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Abdallah 👋</h1>
+  <img src="https://img.shields.io/badge/.NET_Backend_Engineer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend Engineer" />
+</div>
 
-<!--
-**abdallah-git/abdallah-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚡ **Back-End Specialist** focusing on building robust APIs and scalable server-side applications.
+* 🛠️ Expert in **C#, ASP.NET Core**, and managing complex databases with **Entity Framework & SQL Server**.
+* 🏗️ Deep interest in **System Design**, Microservices, and applying **Clean Architecture** patterns.
+* 🛡️ Strong focus on security with **JWT & Identity**, ensuring high-quality and secure codebases.
+* 📚 Lifelong learner, always exploring the latest in the **.NET ecosystem** and cloud technologies.
+* 📧 You can reach me at: [abdallahyaqout66@gmail.com](mailto:abdallahyaqout66@gmail.com)
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** C#, SQL
+- **Frameworks:** ASP.NET Core Web API, EF Core
+- **Architecture:** SOLID Principles, Dependency Injection, Repository Pattern
+- **Tools:** Git, Postman, SQL Server Management Studio (SSMS)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdallah-yaqout-5297693b1/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdallahyaqout66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+
